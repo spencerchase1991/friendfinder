@@ -16,9 +16,9 @@ module.exports = function apiRoutes(app) {
             totDiff = 0;
             for (var j = 0; j < newFriend.scores.length; j++) {
                 totDiff += Math.abs(friends[i].scores[j] - newFriend.scores[j]);
-            } //for j
+            } // j
             diffArry.push(totDiff);
-        } //for i
+        } // i
 
         var match = diffArry.indexOf(Math.min(...diffArry));
 
