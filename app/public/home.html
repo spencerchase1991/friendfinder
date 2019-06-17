@@ -13,24 +13,33 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
   <script src="https://kit.fontawesome.com/2fde53fcdc.js"></script>
-  <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Mali&display=swap" rel="stylesheet">
+
+  <style>
+  body {background-image: url(https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80); background-size: cover; font-family: 'Mali', cursive;}
+  .container {margin-top: 5em;}
+  .jumbotron {color: rgb(131, 105, 35);}
+  h1 {text-align: center;}
+  #submit {background-color: rgb(131, 105, 35);}
+  </style>
   
   
 </head>
 
 
 
-<body style="background-image: url(https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80)"; style="background-size: cover">
+<body>
 
-  <div class="container" style="margin-top: 5em">
+  <div class="container">
 
-    <div class="jumbotron" style="color:darkblue">
-      <h1 style="text-align: center"><i class="fas fa-user-friends"></i> Friend Finder</h1>
+    <div class="jumbotron">
+      <h1><i class="fas fa-user-friends"></i> Friend Finder</h1>
       <hr>
       <ul style="list-style-type:circle">
       <li><h2>Is your significant other not listening to you?</h2></li>
       <li><h2>Do your friends not understand?</h2></li>
       <li><h2>Do you want to just meet someone that you can connect with on a friend level?</h2></li>
+      <li><h2>Maybe you just need a change and want to try new things?</h2></li>
       </ul>
       <h2 style="text-align: center"><strong> If so, this is the place for you!!!</strong></h2>
       <h2 style="text-align: center">Answer a few simply questions that best fix you and we will find someone that is on YOUR playing field! </h2>
@@ -38,7 +47,7 @@
       <br>
 
       <div>
-        <a href="/survey"><button type="button" class="btn btn-lg btn-primary"><h4><i class="fas fa-user-check"></i> Go to Survey</h4></button></a>
+        <a href="/survey"><button type="button" class="btn btn-lg btn-primary" id="submit"><h4><i class="fas fa-user-check"></i> Go to Survey</h4></button></a>
       </div>
 
     </div>
