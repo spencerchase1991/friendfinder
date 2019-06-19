@@ -16,7 +16,7 @@
     ]
   },
   {
-    "name": "Joey Chasez",
+    "name": "JC Chasez",
     "photo": "https://i.pinimg.com/originals/99/4c/a8/994ca81faf3b6c5dbc2b2671c0d050c4.jpg",
     "scores": [
       "1",
@@ -52,13 +52,13 @@
     "photo": "https://www.billboard.com/files/styles/article_main_image/public/media/chris-kirkpatrick-nsync-2001-billboard-650.jpg",
     "scores": [
       "1",
+      "3",
       "1",
       "1",
+      "5",
       "1",
       "1",
-      "1",
-      "1",
-      "1",
+      "4",
       "1",
       "1"
     ]
@@ -80,12 +80,12 @@
     ]
   },
   {
-    "name": "Brittany Spears",
+    "name": "Britney Spears",
     "photo": "https://www.tvovermind.com/wp-content/uploads/2018/08/Britney-90s.jpg",
     "scores": [
       "3",
       "3",
-      "3",
+      "5",
       "3",
       "3",
       "3",
@@ -105,10 +105,10 @@
       "3",
       "3",
       "3",
+      "5",
       "3",
       "3",
-      "3",
-      "3"
+      "5"
     ]
   },
   {
@@ -136,10 +136,10 @@
       "2",
       "2",
       "1",
-      "5",
       "1",
       "1",
-      "3",
+      "1",
+      "4",
       "4"
     ]
   },
@@ -195,7 +195,7 @@
     "name": "Rihanna",
     "photo": "https://i.guim.co.uk/img/media/d047015fb6e4a0b22f6735c6862a4e2393d82301/0_252_4172_2503/master/4172.jpg?width=300&quality=85&auto=format&fit=max&s=2a2426593a1d194f33cf9a9b386bb26f",
     "scores": [
-      "5",
+      "1",
       "1",
       "5",
       "1",
@@ -211,6 +211,7 @@
     "name": "Donald Trump",
     "photo": "https://fortunedotcom.files.wordpress.com/2017/04/donald-trump-stern-face.jpg",
     "scores": [
+      "1",
       "3",
       "3",
       "3",
@@ -218,8 +219,7 @@
       "3",
       "3",
       "3",
-      "3",
-      "3",
+      "2",
       "3"
     ]
   },
@@ -230,11 +230,11 @@
       "1",
       "1",
       "1",
+      "3",
       "1",
       "1",
       "1",
-      "1",
-      "1",
+      "3",
       "1",
       "1"
     ]
